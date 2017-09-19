@@ -11,7 +11,7 @@ We ended up building two-frontends; our main frontend is deployed via Firebase h
 https://hot-spot-40dff.firebaseapp.com/index.html. However, our second frontend has a more polished UI and is powered by Vue.js, Vuex and 
 Vue-Router. It has been deployed via Netlify and can be viewed at https://www.getvune.com/.
 
-<p align="center"><img src ="https://cloud.githubusercontent.com/assets/16710726/22316883/234eed46-e33e-11e6-8913-56a7a99bd28b.png" /></p>
+<p align="center"><img src ="https://user-images.githubusercontent.com/16710726/30573605-dae35cec-9cc2-11e7-8382-f95f3be4943c.png"/></p>
 A schematic of our service-oriented architecture.
 
 ## Milestones
