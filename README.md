@@ -8,7 +8,7 @@ soon as they are uploaded, without having to refresh the page. This project was 
 ## How We Built It
 
 We ended up building two-frontends; our main frontend is deployed via Firebase hosting and is hosted at 
-https://hot-spot-40dff.firebaseapp.com/index.html. However, our second frontend has a more polished UI and is powered by Vue.js, Vuex and 
+https://planetvune.com. However, our second frontend has a more polished UI and is powered by Vue.js, Vuex and 
 Vue-Router. It has been deployed via Netlify and can be viewed at https://www.getvune.com/. Before deciding on transitioning to Firebase, we initially wrote a few REST API endpoints in Node.js to handle the uploading and retrieval of videos. This backend code can be found at: https://github.com/Cvarier/planet-vune-backend.
 
 <p align="center"><img src ="https://user-images.githubusercontent.com/16710726/30573605-dae35cec-9cc2-11e7-8382-f95f3be4943c.png"/></p>
