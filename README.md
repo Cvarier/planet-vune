@@ -3,7 +3,7 @@
 Inspired by the legacy of Vine, we decided to create a blogging/social platform for uploading and sharing 7-second videos in a 
 geographical context. Vune enables people to upload videos at a specific location, and to share these videos with their 
 subscriber/follower base. We implemented real-time Firebase sync across our entire platform, so videos are visible to others as 
-soon as they are uploaded, without having to refresh the page. This project was submitted for Hack the North 2017.
+soon as they are uploaded, without having to refresh the page. This project was submitted and pitched at Hack the North 2017.
 
 ## How We Built It
 
