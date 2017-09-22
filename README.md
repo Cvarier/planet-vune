@@ -16,7 +16,7 @@ A schematic of our service-oriented architecture.
 
 ## Milestones
 
-Building a Vue.js / Vuex / Vue-router, components-based backend with almost no prior Vue experience, using Firebase to integrate
+Our milestones included building a Vue.js / Vuex / Vue-router, components-based backend with almost no prior Vue experience, using Firebase to integrate
 user authentication and management as well as allow the simulataneous upload and distribution of videos to users.
 
 ## What We Learned
